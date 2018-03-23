@@ -1,0 +1,8 @@
+C:\Users\E-Create Tecnologia\source\repos\Tp3_Arianna_Lima\RepositorioDeAniversariante\bin\Debug\RepositorioDeAniversariante.dll
+C:\Users\E-Create Tecnologia\source\repos\Tp3_Arianna_Lima\RepositorioDeAniversariante\bin\Debug\RepositorioDeAniversariante.pdb
+C:\Users\E-Create Tecnologia\source\repos\Tp3_Arianna_Lima\RepositorioDeAniversariante\bin\Debug\Pessoa.dll
+C:\Users\E-Create Tecnologia\source\repos\Tp3_Arianna_Lima\RepositorioDeAniversariante\bin\Debug\Pessoa.pdb
+C:\Users\E-Create Tecnologia\source\repos\Tp3_Arianna_Lima\RepositorioDeAniversariante\obj\Debug\Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\E-Create Tecnologia\source\repos\Tp3_Arianna_Lima\RepositorioDeAniversariante\obj\Debug\Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\E-Create Tecnologia\source\repos\Tp3_Arianna_Lima\RepositorioDeAniversariante\obj\Debug\RepositorioDeAniversariante.dll
+C:\Users\E-Create Tecnologia\source\repos\Tp3_Arianna_Lima\RepositorioDeAniversariante\obj\Debug\RepositorioDeAniversariante.pdb

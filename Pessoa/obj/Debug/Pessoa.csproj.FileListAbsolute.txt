@@ -1,0 +1,6 @@
+C:\Users\E-Create Tecnologia\source\repos\Tp3_Arianna_Lima\Pessoa\bin\Debug\Pessoa.dll
+C:\Users\E-Create Tecnologia\source\repos\Tp3_Arianna_Lima\Pessoa\bin\Debug\Pessoa.pdb
+C:\Users\E-Create Tecnologia\source\repos\Tp3_Arianna_Lima\Pessoa\obj\Debug\Pessoa.csprojResolveAssemblyReference.cache
+C:\Users\E-Create Tecnologia\source\repos\Tp3_Arianna_Lima\Pessoa\obj\Debug\Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\E-Create Tecnologia\source\repos\Tp3_Arianna_Lima\Pessoa\obj\Debug\Pessoa.dll
+C:\Users\E-Create Tecnologia\source\repos\Tp3_Arianna_Lima\Pessoa\obj\Debug\Pessoa.pdb

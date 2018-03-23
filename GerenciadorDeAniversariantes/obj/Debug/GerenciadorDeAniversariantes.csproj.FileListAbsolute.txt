@@ -1,0 +1,11 @@
+C:\Users\E-Create Tecnologia\source\repos\Tp3_Arianna_Lima\GerenciadorDeAniversariantes\bin\Debug\GerenciadorDeAniversariantes.exe.config
+C:\Users\E-Create Tecnologia\source\repos\Tp3_Arianna_Lima\GerenciadorDeAniversariantes\bin\Debug\GerenciadorDeAniversariantes.exe
+C:\Users\E-Create Tecnologia\source\repos\Tp3_Arianna_Lima\GerenciadorDeAniversariantes\bin\Debug\GerenciadorDeAniversariantes.pdb
+C:\Users\E-Create Tecnologia\source\repos\Tp3_Arianna_Lima\GerenciadorDeAniversariantes\bin\Debug\Pessoa.dll
+C:\Users\E-Create Tecnologia\source\repos\Tp3_Arianna_Lima\GerenciadorDeAniversariantes\bin\Debug\RepositorioDeAniversariante.dll
+C:\Users\E-Create Tecnologia\source\repos\Tp3_Arianna_Lima\GerenciadorDeAniversariantes\bin\Debug\Pessoa.pdb
+C:\Users\E-Create Tecnologia\source\repos\Tp3_Arianna_Lima\GerenciadorDeAniversariantes\bin\Debug\RepositorioDeAniversariante.pdb
+C:\Users\E-Create Tecnologia\source\repos\Tp3_Arianna_Lima\GerenciadorDeAniversariantes\obj\Debug\GerenciadorDeAniversariantes.csprojResolveAssemblyReference.cache
+C:\Users\E-Create Tecnologia\source\repos\Tp3_Arianna_Lima\GerenciadorDeAniversariantes\obj\Debug\GerenciadorDeAniversariantes.csproj.CoreCompileInputs.cache
+C:\Users\E-Create Tecnologia\source\repos\Tp3_Arianna_Lima\GerenciadorDeAniversariantes\obj\Debug\GerenciadorDeAniversariantes.exe
+C:\Users\E-Create Tecnologia\source\repos\Tp3_Arianna_Lima\GerenciadorDeAniversariantes\obj\Debug\GerenciadorDeAniversariantes.pdb
